@@ -1,0 +1,4 @@
+github.com/DannyBen/filecache v0.0.0-20141018175007-0062e037330c h1:28HvWGHKP4mRex1hsdGk2MlRAABDDWqg+P+NoQYtxj0=
+github.com/DannyBen/filecache v0.0.0-20141018175007-0062e037330c/go.mod h1:vUXlz0omYLR5Z7f80MudV3JsOHGqjXpwwv1K6hN7+I8=
+github.com/DannyBen/quandl v0.3.0 h1:vH9ubU+KpeMyDyqFERlBAhBdKD+4WvwNBwKDpe7e95k=
+github.com/DannyBen/quandl v0.3.0/go.mod h1:H6HeMwH5RhDK8dqFbMOLJC47A6kdHhayd2NmukjDSpk=
