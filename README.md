@@ -1,1 +1,1 @@
-* golang
+* to learn golang
