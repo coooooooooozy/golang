@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	url := "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v3/get-historical-data?symbol=AAPL&region=US"
+	url := "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-financials?symbol=AMRN&region=US"
 
 	req, _ := http.NewRequest("GET", url, nil)
 
@@ -20,7 +20,7 @@ func main() {
 	defer res.Body.Close()
 	body, _ := ioutil.ReadAll(res.Body)
 
-	// fmt.Println(res)
+//	fmt.Println(res)
 	fmt.Println(string(body))
 
 }

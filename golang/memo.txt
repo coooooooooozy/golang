@@ -1,0 +1,13 @@
+install go on mac
+https://qiita.com/fujitahiroshi/items/fe2631bc5816b5cf5251
+
+
+$ brew install goenv
+.zshrc の編集
+$ goenv install -l
+$ goenv install 1.11.4
+$ goenv global 1.11.4
+
+$ go version
+
+
